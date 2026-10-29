@@ -208,8 +208,8 @@ No license has been specified. Add a `LICENSE` file before presenting the reposi
 **Nemanja Stošić**  
 Master's thesis project — traffic sign detection and classification.
 
-- GitHub: [your GitHub profile]([https://github.com/](https://github.com/Tsonee))
-- LinkedIn: [your LinkedIn profile]([https://www.linkedin.com/](https://www.linkedin.com/in/nemanja-sto%C5%A1i%C4%87-01184743b/))
+- GitHub: [https://github.com/Tsonee]
+- LinkedIn: [https://www.linkedin.com/in/nemanja-sto%C5%A1i%C4%87-01184743b/]
 
 ---
 
