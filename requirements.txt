@@ -1,0 +1,7 @@
+# Core dependencies for Traffic Sign Detection and Classification
+# Recommended Python version: 3.11 or 3.12
+
+numpy>=1.23.5,<2.0
+opencv-python>=4.8,<5.0
+tensorflow==2.16.2
+matplotlib>=3.7,<4.0
